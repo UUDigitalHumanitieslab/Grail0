@@ -35,6 +35,9 @@
 		  proof_transform/1]).
 
 
+:- dynamic compact_lex/1, unary_semantics/1, eta_long_proofs/1, hypo_scope/1, macro_reduce/1, output_expl_brackets/1, output_labels/1, output_semantics/1, output_subst_lex_sem/1.
+
+
 % ---------------------------------------------------------------------
 % Options
 % ---------------------------------------------------------------------
